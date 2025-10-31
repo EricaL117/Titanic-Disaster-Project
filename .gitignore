@@ -3,3 +3,7 @@ src/data/
 __pycache__/
 .venv/
 venv/
+titanic-env/
+*.csv
+.RData
+.Rhistory
